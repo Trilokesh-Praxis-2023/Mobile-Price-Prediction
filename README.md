@@ -5,6 +5,16 @@ Objective: Predict mobile phone prices accurately to aid consumers in informed p
 Approach : EDA, outlier analysis and applying linear regression model , stepwise regression along with residual analysis aided by hypothesis testing.
 
 Outcome: Important factors affecting mobile prices, and model predicting strength evaluated on minimising prediction error.
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 
 <p align="center">
   <a href="https://www.r-project.org/"><img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R"></a>
