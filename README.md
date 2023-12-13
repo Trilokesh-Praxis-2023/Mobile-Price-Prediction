@@ -11,13 +11,12 @@ Outcome: Important factors affecting mobile prices, and model predicting strengt
 <br>
 <br>
 <br>
-<br>
-<br>
+<div align="center">
+
 ![Mobile Phone 1](https://st4.depositphotos.com/13349494/23185/i/450/depositphotos_231856792-stock-photo-smartphone-laptop-black-background-marketing.jpg)
 
-<br>
-<br>
-<br>
+</div>
+
 <br>
 <br>
 <br>
