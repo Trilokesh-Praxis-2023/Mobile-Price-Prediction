@@ -13,8 +13,18 @@ Outcome: Important factors affecting mobile prices, and model predicting strengt
 <br>
 <br>
 <br>
-<br>
+![Mobile Phone 1]([https://example.com/mobile_phone_1.jpg](https://www.google.com/url?sa=i&url=https%3A%2F%2Fdepositphotos.com%2Fphotos%2Fdigital-marketing.html&psig=AOvVaw1WV1oHyKn_cuORBiIZ8dqi&ust=1702576616994000&source=images&cd=vfe&ved=0CBIQjRxqFwoTCKCS8Kv-jIMDFQAAAAAdAAAAABAE))
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 <p align="center">
   <a href="https://www.r-project.org/"><img src="https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white" alt="R"></a>
